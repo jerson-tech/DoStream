@@ -3,7 +3,7 @@
    {
      "name": "MI vs KKR (IPL 2021)",
      "img": "https://res.cloudinary.com/jersondesigns/image/upload/v1618320153/IMG_20210413_185143_181_q3uzws.jpg",
-     "url": "https://prod-fastly-ap-south-1.video.periscope.tv/Transcoding/v1/hls/58tEXAq6YTdDPL8a5wtdgV5ZToiv-3bLU1IyoGJSwkF6ZO1-nMbP1_5X-2Wd5zUhrWK1u2xg6qTxETqcQw-p2Q/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live@live_cricketmatch",
+     "url": "https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_0/index2.m3u8",
      "urlHd": "yes",
      "rate": "Not Yet",
      "tUrl": "https://youtu.be/cPhp6e6ZWmE",
